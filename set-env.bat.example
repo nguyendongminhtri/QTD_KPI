@@ -1,0 +1,4 @@
+:: Chạy 1 lần với quyền Administrator, SAU KHI đã đổi giá trị thật. Không commit file này lên Git.
+setx SYNC_DB_PWD "mat-khau-moi-cua-sync_reader" /M
+setx SYNC_TOKEN "chuoi-token-dai-ngau-nhien" /M
+setx SYNC_API "https://ten-mien-cua-ban/api/sync/giao-dich" /M
